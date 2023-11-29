@@ -5,7 +5,7 @@ import ViewAllCars from "./Components/ViewAllCars"
 import CreateCar from "./Components/CreateCar"
 import UpdateCarComponent from './Components/UpdateCarComponent';
 import UpdateMultipleCars from './Components/UpdateMultipleCars';
-const CARS_API = 'http://db-cars-basic-app.vercel.app/cars'
+const CARS_API = 'https://db-cars-basic-app.vercel.app/cars'
 
 function App() {
 
