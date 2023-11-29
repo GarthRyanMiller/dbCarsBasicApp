@@ -1,5 +1,5 @@
 import './ViewAllCars.css'
-const CARS_API = 'http://localhost:3200/cars'
+const CARS_API = 'https://db-cars-basic-app.vercel.app/cars'
 
 function ViewAllCars(props){
 
